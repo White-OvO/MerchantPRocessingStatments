@@ -14,7 +14,8 @@ public class PaperWork {
 		System.out.println("enter total number of transcations : ");
 		double totalNumberOfTransactions = scanner.nextDouble();
 		double averageTicket = volume/totalNumberOfTransactions;
-		System.out.println("Average Ticket size is :  %.2f,"+ averageTicket);
+		System.out.printf("Average Ticket size is :  %.2f", averageTicket);
+
 		
 	}
 
