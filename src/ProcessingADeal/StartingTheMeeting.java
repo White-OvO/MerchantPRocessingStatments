@@ -31,7 +31,32 @@ public class StartingTheMeeting {
 		System.out.println("Interchange cost are fees charged by card issuers . ");
 		System.out.println("Interchange cost can be found in the interchange section : ");
 		
+		//3 buisness  
+	// buisness 1 : 
+		// maid company 
+		// online 
+			//60,000 volume 
+			
+	//buisness 2 : 
+		// online 
+		// 191.429.87
+		//	99650.77
+		// consolting busness 
+			//26,871.00
+		// $865.00
+		// 602.73 charges fee
+	// buisness 3: 
+		// online
 		
+		
+		
+		
+		/// 
+		
+		//chargebacks - 1 
+		// no fraud / databreach 
+		
+		// 
 		System.out.println("Processors Fee's Calculator \n");
 		System.out.println("Enter toal InterChange Charges : \n");
 		double interChangeCharges = scanner.nextDouble();

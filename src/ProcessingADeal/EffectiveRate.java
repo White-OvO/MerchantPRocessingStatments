@@ -3,7 +3,8 @@ package ProcessingADeal;
 import java.util.Scanner;
 
 public class EffectiveRate {
-		
+	// life time merchant service 
+	//	payments hoop
 
 	public static void  main(String[] args) {
 		// TODO Auto-generated method stub
