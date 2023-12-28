@@ -31,11 +31,11 @@ public class costPlus {
 		double FinalDealAmex = amexTotal * 0.0165;    // 20 OR 2 BASES 2.0 BASES POINTS
 		System.out.println("NEW PRICING ");
 		System.out.println("Enchanced priced for American Express including total amount of transactions a month : " + String.format("%.2f", FinalDealAmex));	
-		System.out.println("Meaning : INTERCHANGE : 1.65%  \t");
+		System.out.println("Meaning : INTERCHANGE : 1.89%  \t");
 		System.out.println("Dues and assesments : .14%\t");
 		System.out.println("Commissions : .20% + (the banks .20 or 20 bsp for the bank . t"); // 20 $ out of every 10,000
-		System.out.println("Total = 2.05 total of 2 bases points or 2% or 2.0 \t");
-		System.out.println("Meaning every transation of $100 would be $2.05 \t income: =  $97.95");
+		System.out.println("Total = 2.0 total of 2 bases points or 2% or 2.0 \t");
+		System.out.println("Meaning every transation of $100 would be $2.05 \t income: =  $97.57");
 		System.out.println("\t ");
 		System.out.println(FinalDealAmex + " is the final Amex cost w the total amount of transactions * 2 percent \t");
 		
